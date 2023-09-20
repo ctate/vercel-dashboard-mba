@@ -1,0 +1,22 @@
+[package]
+name = "vercel-desktop"
+version = "0.0.0"
+description = "Vercel Desktop"
+authors = ["Chris Tate"]
+license = "MIT"
+repository = "https://github.com/ctate/vercel-desktop"
+edition = "2021"
+rust-version = "1.57"
+
+[build-dependencies]
+tauri-build = { version = "1.2", features = [] }
+
+[dependencies]
+serde_json = "1.0"
+serde = { version = "1.0", features = ["derive"] }
+tauri = { version = "1.2", features = ["macos-private-api", "shell-open", "system-tray"] }
+tauri-plugin-positioner = { version = "1.0.4", features = ["system-tray"] }
+
+[features]
+default = ["custom-protocol"]
+custom-protocol = ["tauri/custom-protocol"]
