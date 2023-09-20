@@ -1,6 +1,6 @@
 # Vercel Desktop ▲
 
-> the unofficial, unaffiliated desktop version of Vercel
+> the unaffiliated desktop version of Vercel
 
 <p align="center">
   <img src="./screenshot.png" alt="Vercel Desktop" />
@@ -19,7 +19,7 @@
 <div>
   ◆ Open source</div>
 <div>
-  ◆ More to come!
+  ◆ And much more to come!
 </div>
 
 ## Prerequisites
