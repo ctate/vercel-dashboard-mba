@@ -15,7 +15,7 @@
   ◆ Runs on Windows, Mac & Linux
 </div>
 <div>
-  ◆ ▲ icon in your menubar</div>
+  ◆ ▲ icon in your menu bar</div>
 <div>
   ◆ Open source</div>
 <div>
