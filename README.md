@@ -42,7 +42,7 @@ To contribute to this project, kindly [fork the repository](https://github.com/c
 
 ## License
 
-[MIT](./mit)
+[MIT](https://github.com/ctate/vercel-desktop/blob/main/LICENSE)
 
 ## Acknowledgements
 
