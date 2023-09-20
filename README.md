@@ -8,21 +8,19 @@
 
 ## Features
 
-<ul style="list-style-type: none">
-  <li>
-    ◆ One-click access to Vercel
-  </li>
-  <li>
-    ◆ Runs on Windows, Mac & Linux
-  </li>
-  <li>
-    ◆ ▲ icon in your menubar</li>
-  <li>
-    ◆ Open source</li>
-  <li>
-    ◆ More to come!
-  </li>
-</ul>
+<div>
+  ◆ One-click access to Vercel
+</div>
+<div>
+  ◆ Runs on Windows, Mac & Linux
+</div>
+<div>
+  ◆ ▲ icon in your menubar</div>
+<div>
+  ◆ Open source</div>
+<div>
+  ◆ More to come!
+</div>
 
 ## Prerequisites
 
