@@ -1,6 +1,12 @@
-# Vercel Desktop ▲
+# vercel-dashboard-mba
 
-> the unofficial desktop version of Vercel
+> Use the Vercel dashboard from your menu bar
+
+`vercel-dashboard-mba` is a Menu Bar App for the Vercel dashboard: https://vercel.com/dashboard
+
+It enables you to use the Vercel dashboard directly from your menu bar, making it easy to check your deployments and manage your Vercel projects.
+
+*Note: This project is not affiliated with Vercel.*
 
 <p align="center">
   <img src="./screenshot.png" alt="Vercel Desktop" />
@@ -8,19 +14,9 @@
 
 ## Features
 
-<div>
-  ◆ One-click access to Vercel
-</div>
-<div>
-  ◆ Runs on Windows, Mac & Linux
-</div>
-<div>
-  ◆ ▲ icon in your menu bar</div>
-<div>
-  ◆ Open source</div>
-<div>
-  ◆ And much more to come!
-</div>
+- One-click access to the Vercel dashboard
+- Runs on Windows, Mac & Linux
+- ▲ icon in your menu bar
 
 ## Prerequisites
 
@@ -29,7 +25,7 @@
 
 ## Running the application
 
-To run Vercel Desktop:
+To run `vercel-dashboard-mba`:
 
 ```sh
 pnpm install
