@@ -9,7 +9,7 @@ It enables you to use the Vercel dashboard directly from your menu bar, making i
 *Note: This project is not affiliated with Vercel.*
 
 <p align="center">
-  <img src="./screenshot.png" alt="Vercel Desktop" />
+  <img src="./screenshot.png" alt="Vercel Menu Bar App" />
 </p>
 
 ## Features
@@ -34,11 +34,11 @@ pnpm tauri dev
 
 ## Contribute
 
-To contribute to this project, kindly [fork the repository](https://github.com/ctate/vercel-desktop/fork) and submit a pull request containing your modifications.
+To contribute to this project, kindly [fork the repository](https://github.com/ctate/vercel-dashboard-mba/fork) and submit a pull request containing your modifications.
 
 ## License
 
-[MIT](https://github.com/ctate/vercel-desktop/blob/main/LICENSE)
+[MIT](https://github.com/ctate/vercel-dashboard-mba/blob/main/LICENSE)
 
 ## Acknowledgements
 

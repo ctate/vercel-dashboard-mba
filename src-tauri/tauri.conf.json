@@ -31,7 +31,7 @@
         "icons/icon.icns",
         "icons/icon.ico"
       ],
-      "identifier": "dev.ctate.vercel-desktop",
+      "identifier": "dev.ctate.vercel-dashboard-mba",
       "longDescription": "",
       "macOS": {
         "entitlements": null,

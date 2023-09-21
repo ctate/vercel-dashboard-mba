@@ -1,10 +1,10 @@
 [package]
-name = "vercel-desktop"
+name = "vercel-dashboard-mba"
 version = "0.0.0"
-description = "Vercel Desktop"
+description = "Vercel Menu Bar App"
 authors = ["Chris Tate"]
 license = "MIT"
-repository = "https://github.com/ctate/vercel-desktop"
+repository = "https://github.com/ctate/vercel-dashboard-mba"
 edition = "2021"
 rust-version = "1.57"
 
